@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.debug #app_header {
+    width: 100%;
+    height: 80px;
+    flex-direction: row;
+}
+
+/* css section */
+
+.container {
+    display: flex;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+}
+
+#app_header {
+    padding: 1rem 10rem 1rem 10rem;
+}
