@@ -162,3 +162,28 @@ a {
     text-decoration: line-through;
 }
 
+#site_footer {
+    background-color: darkslategrey;
+    color: white;
+    padding: 2rem 0;
+    margin-left: -5rem;
+}
+
+#site_footer .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dx{
+    text-align: left;
+    align-items: first baseline;
+}
+
+.dx h3 {
+    padding-bottom: 5px;
+    padding-left: 33px;
+}
+
+.social {
+   gap
+}
